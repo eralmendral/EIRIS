@@ -5,7 +5,7 @@ Education I------- Realtime Information System
 - Purpose of the system is the explicit, transparent and fun data driven analysis of users' educational / scholastic growth.
 - Users' should be able to identify their own strengths and weaknessess and guided what to improve on.
 - Users' should be able to see their progress in **Gamified** manner.
-- Users' should be able to monitor, track, notified about their needed data in different specifications.
+- Users' should be able to monitor, track, & be notified about their needed data in specific scenarios.
 - New grading system and points will be introduced.
 
 ### Who:
