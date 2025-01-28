@@ -20,7 +20,7 @@ Education Illumined Realtime Information System
 - Because of the gravity of the earth...
 
 
-### Why is it named EIRIS (some did you knows):
+### Why is it named EIRIS:
 - Eiris - means messenger
 - The iris is the colored part of the eye that controls how much light enters the eye. It's located between the cornea and the lens.
 - To see  = To know = To educate = To enlighten = To Illuminate
