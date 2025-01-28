@@ -1,5 +1,5 @@
 # EIRIS
-Education Illumined Realtime Information System
+Education I------- Realtime Information System
 
 ## What:
 - Purpose of the system is the explicit, transparent and fun data driven analysis of users' educational / scholastic growth.
