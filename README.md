@@ -1,6 +1,8 @@
 # EIRIS
 Education I------- Realtime Information System
 
+<img width="480px" src="https://i.pinimg.com/1200x/e8/83/3a/e8833a5e7673aed74bccf10122c0f560.jpg"></img>
+
 ## What:
 - Purpose of the system is the explicit, transparent and fun data driven analysis of users' educational / scholastic growth.
 - Users' should be able to identify their own strengths and weaknessess and guided what to improve on.
