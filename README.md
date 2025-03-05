@@ -30,9 +30,6 @@ Education I------- Realtime Information System
 
 <br />
 <hr />
-
-![image](https://github.com/user-attachments/assets/2b850822-3a62-4e6e-a944-bd2e00ff7941)
-
 IRIS was the goddess of the rainbow and the messenger of the Olympian gods. She was often described as the handmaiden and personal messenger of Hera. Iris was a goddess of sea and sky--her father Thaumas "the wondrous" was a marine-god, and her mother Elektra "the amber" a cloud-nymph. For the coastal-dwelling Greeks, the rainbow's arc was most often seen spanning the distance beteween cloud and sea, and so the goddess was believed to replenish the rain-clouds with water from the sea. Iris had no distinctive mythology of her own. In myth she appears only as an errand-running messenger and was usually described as a virgin goddess. Her name contains a double meaning, being connected with both the Greek word iris "the rainbow" and eiris "messenger."
 
 Iris is depicted in ancient Greek vase painting as a beautiful young woman with golden wings, a herald's rod (kerykeion), and sometimes a water-pitcher (oinochoe) in her hand. She was usually depicted standing beside Zeus or Hera, sometimes serving nectar from her jug. As cup-bearer of the gods Iris is often indistinguishable from Hebe in art.
