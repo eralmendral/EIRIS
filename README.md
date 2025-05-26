@@ -19,7 +19,7 @@ Education I------- Realtime Information System
 
 
 ### Why:
-- Because of Pluto and the gravity of the earth...
+- 
 
 
 ### Why is it named EIRIS:
