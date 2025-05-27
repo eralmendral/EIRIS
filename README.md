@@ -17,20 +17,8 @@ Education I------- Realtime Information System
 - Students
 - Teachers
 
-
-### Why:
-- 
-
-
-### Why is it named EIRIS:
-- Eiris - means messenger
-- The iris is the colored part of the eye that controls how much light enters the eye. It's located between the cornea and the lens.
-- To see  = To know = To educate = To enlighten = To Illuminate
-- The meaning of the name Iris comes directly from the Greek word iris, which means "rainbow."
-
 <br />
 <hr />
 https://www.theoi.com/Pontios/Iris.html <br />
 IRIS was the goddess of the rainbow and the messenger of the Olympian gods. She was often described as the handmaiden and personal messenger of Hera. Iris was a goddess of sea and sky--her father Thaumas "the wondrous" was a marine-god, and her mother Elektra "the amber" a cloud-nymph. For the coastal-dwelling Greeks, the rainbow's arc was most often seen spanning the distance beteween cloud and sea, and so the goddess was believed to replenish the rain-clouds with water from the sea. Iris had no distinctive mythology of her own. In myth she appears only as an errand-running messenger and was usually described as a virgin goddess. Her name contains a double meaning, being connected with both the Greek word iris "the rainbow" and eiris "messenger."
 
-Iris is depicted in ancient Greek vase painting as a beautiful young woman with golden wings, a herald's rod (kerykeion), and sometimes a water-pitcher (oinochoe) in her hand. She was usually depicted standing beside Zeus or Hera, sometimes serving nectar from her jug. As cup-bearer of the gods Iris is often indistinguishable from Hebe in art.
