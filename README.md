@@ -1,5 +1,5 @@
 # EIRIS
-Education I------- Realtime Information System
+Expertise Insight Reinforcement Information Subsystem
 
 <img width="480px" src="https://i.pinimg.com/1200x/e8/83/3a/e8833a5e7673aed74bccf10122c0f560.jpg"></img>
 
